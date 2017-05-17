@@ -1,2 +1,6 @@
+#!/bin/bash
 # hello-world
-my first repository
+# my first repository
+          
+            STRING="Hello World!"
+            echo $STRING 
